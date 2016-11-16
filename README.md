@@ -1,6 +1,7 @@
 # 2016_election_night
 Election night scripts and data
-AP Election Night voting results data scraped from here: http://static.fusion.net/2016-election-results/index.html
+AP Election Night voting results data scraped from here:   
+http://static.fusion.net/2016-election-results/index.html
 
 - get_us_population_by_race_gender_county.ipynb
 https://github.com/kstohr/election_night_2016/blob/master/get_us_population_by_race_gender_county.ipynb
